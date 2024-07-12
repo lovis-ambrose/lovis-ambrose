@@ -9,6 +9,7 @@
 </p>
 
 - 🔭 **I’m currently working on;**
+  - Web Development
   - DevOps
   - Data Science
   - Requirements Analysis and Engineering.

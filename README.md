@@ -78,10 +78,6 @@
 <br />
 <br />
 
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lovis-ambrose.lovis-ambrose&left=Visitors%20👋&right=500)
-
-
 ## Visitors 🔎 Count 👀
 
 ![Visitor Count](https://profile-counter.glitch.me/{lovis-ambrose}/count.svg)

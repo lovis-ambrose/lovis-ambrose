@@ -10,7 +10,7 @@
 
 - 🔭 **I’m currently working on;**
   - Web Development
-  - DevOps
+  - Microservices
   - Data Science
   - Requirements Analysis and Engineering.
     <br />
@@ -25,7 +25,7 @@
   - Web Development
   - Data Science
   - Artificial Intelligence
-  - DevOps (Development Operations)
+  - DSA
     <br />
     <br />
 - 🤔 **I’m looking for help with;**

@@ -4,8 +4,8 @@
 <h5>I am a passionate software engineer with over 5 years of experience in web development, back-end development, data analytics, and data science. I thrive on solving complex problems and am always eager to take on new challenges that push the boundaries of my knowledge and capabilities.</h5>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;Passionate%20and%20creative;Skilled%20in%20web%20technologies.;Enthusiastic%20about%20Artificial%20Intelligence%20and%20data%20analytics.;Always%20learning%20new%20technologies.&center=true&width=550&height=45">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;Passionate%20and%20creative;Skilled%20in%20web%20technologies.;Enthusiastic%20about%20Artificial%20Intelligence%20and%20data%20analytics.;Always%20learning%20new%20technologies.&center=true&width=700&height=45">
+</a>
 </p>
 
 - 🔭 **I’m currently working on;**
